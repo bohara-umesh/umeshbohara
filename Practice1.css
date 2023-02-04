@@ -21,7 +21,7 @@
     background-repeat: no-repeat;
     background-position: top right;
     text-align: center;
-    width: 50vw;
+    width: 45vw;
     height: 70vh;
     display: inline-block;
     background-color: rgb(185, 188, 182);
@@ -32,7 +32,7 @@
     background-image: url('another.jpg');
     background-repeat: no-repeat;
     text-align: center;
-    width: 50vw;
+    width: 40vw;
     height: 70vh;
     display: inline-block;
     background-color: rgb(252, 236, 236);
